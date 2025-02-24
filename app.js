@@ -12,3 +12,11 @@ function saludoPersobal(name){
 
 
 saludoPersobal('Luis');
+
+
+
+function numeroAlDoble(numero){
+    console.log(numero*2)
+}
+
+numeroAlDoble(8);
