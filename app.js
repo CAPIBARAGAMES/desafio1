@@ -6,6 +6,9 @@ function saludo() {
 saludo();
 
 
-function saludoPersobal(){
-    
+function saludoPersobal(name){
+    console.log( `¡Hola, ${name}!`)
 }
+
+
+saludoPersobal('Luis');
